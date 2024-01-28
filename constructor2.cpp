@@ -12,6 +12,8 @@ class Hero{
 
    
 };
+//this keywors
+//copy constructor
 
 int main(){
 
